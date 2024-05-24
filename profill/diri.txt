@@ -1,0 +1,3 @@
+nama	: gevira nur harmika pratami
+umur	: 18 tahun
+alamat	: lampung utara
